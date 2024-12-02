@@ -35,17 +35,6 @@ This project focuses on forecasting Apple Inc.'s stock prices using advanced mac
 
 ---
 
-## 📂 Project Structure
-
-```
-Apple-Stock-Price-Forecasting-with-Interactive/
-├── data/                    # Historical stock price data
-├── notebooks/               # Jupyter notebooks for analysis and model training
-├── app/                     # Streamlit app code for interactive visualization
-├── models/                  # Saved machine learning models
-├── visuals/                 # Plots and graphs generated during analysis
-├── README.md                # Project overview (you are here!)
-```
 
 ---
 
@@ -55,11 +44,6 @@ Apple-Stock-Price-Forecasting-with-Interactive/
    ```bash
    git clone https://github.com/Praveenravva61/Apple-Stock-Price-Forecasting-with-Interactive.git
    ```
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ---
 
 ## 🚀 Usage
